@@ -1,0 +1,14 @@
+/Users/alexvig/Projects/ServiceExercise/ServiceExercise/bin/Debug/netcoreapp3.1/ServiceExercise
+/Users/alexvig/Projects/ServiceExercise/ServiceExercise/bin/Debug/netcoreapp3.1/ServiceExercise.deps.json
+/Users/alexvig/Projects/ServiceExercise/ServiceExercise/bin/Debug/netcoreapp3.1/ServiceExercise.runtimeconfig.json
+/Users/alexvig/Projects/ServiceExercise/ServiceExercise/bin/Debug/netcoreapp3.1/ServiceExercise.runtimeconfig.dev.json
+/Users/alexvig/Projects/ServiceExercise/ServiceExercise/bin/Debug/netcoreapp3.1/ServiceExercise.dll
+/Users/alexvig/Projects/ServiceExercise/ServiceExercise/bin/Debug/netcoreapp3.1/ServiceExercise.pdb
+/Users/alexvig/Projects/ServiceExercise/ServiceExercise/obj/Debug/netcoreapp3.1/ServiceExercise.csproj.AssemblyReference.cache
+/Users/alexvig/Projects/ServiceExercise/ServiceExercise/obj/Debug/netcoreapp3.1/ServiceExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexvig/Projects/ServiceExercise/ServiceExercise/obj/Debug/netcoreapp3.1/ServiceExercise.AssemblyInfoInputs.cache
+/Users/alexvig/Projects/ServiceExercise/ServiceExercise/obj/Debug/netcoreapp3.1/ServiceExercise.AssemblyInfo.cs
+/Users/alexvig/Projects/ServiceExercise/ServiceExercise/obj/Debug/netcoreapp3.1/ServiceExercise.csproj.CoreCompileInputs.cache
+/Users/alexvig/Projects/ServiceExercise/ServiceExercise/obj/Debug/netcoreapp3.1/ServiceExercise.dll
+/Users/alexvig/Projects/ServiceExercise/ServiceExercise/obj/Debug/netcoreapp3.1/ServiceExercise.pdb
+/Users/alexvig/Projects/ServiceExercise/ServiceExercise/obj/Debug/netcoreapp3.1/ServiceExercise.genruntimeconfig.cache
