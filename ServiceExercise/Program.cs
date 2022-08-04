@@ -9,7 +9,7 @@ namespace ServiceExercise {
         private const int CLIENTS_COUNT = 3;
 
         static void Main(string[] args) {
-            IService service = null; /*** CREATE YOUR SERVICE HERE ***/
+            IService service = new MyService(CONNECTION_COUNT); /*** CREATE YOUR SERVICE HERE ***/
             List<Task> clientTasks = new List<Task>();
 
             for (int i = 0; i < CLIENTS_COUNT; i++) {

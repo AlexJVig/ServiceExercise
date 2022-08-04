@@ -3,6 +3,8 @@ namespace ServiceExercise
 {
     public class MyService : IService
     {
+        private readonly int CONNECTION_COUNT;
+
         public int getSummary()
         {
             throw new NotImplementedException();
@@ -11,6 +13,11 @@ namespace ServiceExercise
         public void sendRequest(Request request)
         {
             throw new NotImplementedException();
+        }
+
+        public MyService(int connectionCount)
+        {
+            CONNECTION_COUNT = connectionCount;
         }
     }
 }
